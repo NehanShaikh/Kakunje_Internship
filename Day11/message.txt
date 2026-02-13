@@ -1,0 +1,2 @@
+Hello, this is my first file handling program.
+This line is appended to the file.
