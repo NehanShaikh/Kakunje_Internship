@@ -1,0 +1,3 @@
+Customer: NS
+City: Bangalore
+Total Cost: 2100
