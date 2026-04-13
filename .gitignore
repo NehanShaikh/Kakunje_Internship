@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+.venv-1/
+.venv-2/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.h5
+*.pt
+*.pth
+
+# Datasets
+fruit_ripeness_dataset/
